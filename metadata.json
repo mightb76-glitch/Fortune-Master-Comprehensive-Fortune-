@@ -1,0 +1,8 @@
+{
+  "name": "AI 운세 마스터 (AI Fortune Master)",
+  "description": "AI 기술을 활용하여 얼굴 관상, 손금, 그리고 사주와 별자리 운세를 종합적으로 분석해주는 운세 애플리케이션입니다. 사진을 올리거나 생년월일을 입력하여 당신의 미래를 탐험해보세요.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
